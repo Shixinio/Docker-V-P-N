@@ -31,7 +31,7 @@ chkconfig docker on
 
 ![用Docker搭建VPN (3)](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_583,h_115/https://vkuajing.net/wp-content/uploads/2019/03/%E7%94%A8Docker%E6%90%AD%E5%BB%BAVPN-3.png)
 
-**安装 Shadowsocks 的 [VPN Docker 镜像](https://github.com/hangim/shadowsocks-docker)**
+**安装 Shadowsocks 的 [VPN Docker 镜像](https://github.com/Shixinio/shadowsocks-docker)**
 
 ~~~shell
 docker pull imhang/shadowsocks-docker
